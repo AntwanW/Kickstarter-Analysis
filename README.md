@@ -16,62 +16,62 @@ Barchart on outcomes.
 
 -	Deliverable 1: Outcomes Based on Launch Date Chart
 
-o	Louise wants to know how different campaigns fared regarding their launch dates and funding goals.
+	o Louise wants to know how different campaigns fared regarding their launch dates and funding goals.
 
 -	Deliverable 2: Outcomes Based on Goals Chart
 
-o	Visualize the percentage of successful, failed, and canceled plays based on the funding goal amount. 
-o	use a new function, COUNTIFS ()
+	o Visualize the percentage of successful, failed, and canceled plays based on the funding goal amount. 
+	o use a new function, COUNTIFS ()
 
 -	Deliverable 3: A written analysis of the results (README.md)
 
 ### Purpose 
 
--	 The Kickstarter Challenge was to build on the knowledge and skill we learned in the modules on excel. It was broken down into three deliverables.
+	- The Kickstarter Challenge was to build on the knowledge and skill we learned in the modules on excel. It was broken down into three deliverables.
 
 ## Analysis and Challenges
 
 ### 1) Analysis of Outcomes Based on Launch Date
 
--	Very successful during April and May, started to decline in June and July and continued to decline until September. There were cancelations during September and November but an increase in failures. 
+	- Very successful during April and May, started to decline in June and July and continued to decline until September. There were cancelations during 		September and November but an increase in failures. 
 
--	Rosources/Theater_Outcomes_vs_Launch.png
+	- Rosources/Theater_Outcomes_vs_Launch.png
 
 
 ### 2) Analysis of Outcomes Based on Goals
-
--	The percentage on successful and failed mirrored each other, with a 0% of canceled. 
+	
+	- The percentage on successful and failed mirrored each other, with a 0% of canceled. 
  
--	Rosources/Outcomes_vs_Goals.png
+	- Rosources/Outcomes_vs_Goals.png
 
 ### 3) Challenges and Difficulties Encountered
 
 -	Deliverable 1:
 
-o	Challenges and Difficulties: On Mac, when pulling data into the Rows under PivotTable Fields, it will include Data Created, Year, and Quarter. Removing the Year and Quarter game me the information needed.
+	o Challenges and Difficulties: On Mac, when pulling data into the Rows under PivotTable Fields, it will include Data Created, Year, and Quarter. Removing 	the Year and Quarter game me the information needed.
 
 -	Deliverable 2:
 
-o	Challenges and Difficulties: Using the new function COUNTIFS (). Data will be altered if it is not input correctly. Identifying how to complete the percentage and entering the formula correctly.  
+	o Challenges and Difficulties: Using the new function COUNTIFS (). Data will be altered if it is not input correctly. Identifying how to complete the 		percentage and entering the formula correctly.  
 
 ## Results
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
 
--  During April and May, expect an increase in success. 
--  During September through December, expect failed or canceled.
+	- During April and May, expect an increase in success. 	
+	- During September through December, expect failed or canceled.
 
 - What can you conclude about the Outcomes based on Goals?
 	
--	The percentage of successful and failed mirrored each other. 
+	-The percentage of successful and failed mirrored each other. 
 
 - What are some limitations of this dataset?
 
--	Missing data
--	Lack of reliable data such as self-reported
+	-Missing data
+	-Lack of reliable data such as self-reported
 
 - What are some other possible tables and/or graphs that we could create? 
 
--	Outcomes based on Launch Date: Clustered Bar and Column.
--	Outcomes based on Goals: Clustered Bar and Column, Stacked Column.
+	-Outcomes based on Launch Date: Clustered Bar and Column.
+	-Outcomes based on Goals: Clustered Bar and Column, Stacked Column.
 
