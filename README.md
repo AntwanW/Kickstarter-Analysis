@@ -35,14 +35,16 @@ o	use a new function, COUNTIFS ()
 
 -	Very successful during April and May, started to decline in June and July and continued to decline until September. There were cancelations during September and November but an increase in failures. 
 
--	Rosources/Theater_Outcomes_vs_Launch.png
+-	![This is an image](https://github.com/Wrancher123/Kickstarter-Analysis/blob/main/Rosources/Outcomes_vs_Goals.png)
 
 
 ### 2) Analysis of Outcomes Based on Goals
 
 -	The percentage on successful and failed mirrored each other, with a 0% of canceled. 
  
--	Rosources/Outcomes_vs_Goals.png
+-	![This is an image](https://github.com/Wrancher123/Kickstarter-Analysis/blob/main/Rosources/Theater_Outcomes_vs_Launch.png)
+
+
 
 ### 3) Challenges and Difficulties Encountered
 
