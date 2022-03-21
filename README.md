@@ -10,7 +10,7 @@ May had the largest success.
 Barchart on outcomes.
 
 
-# **Kickstarting with Excel**
+# Kickstarting with Excel**
 
 ## Overview of Project
 
@@ -27,49 +27,40 @@ Barchart on outcomes.
 
 ### Purpose 
 
-	- The Kickstarter Challenge was to build on the knowledge and skill we learned in the modules on excel. It was broken down into three deliverables.
+	- The Kickstarter Challenge was to build on the knowledge and skill we learned in the modules 	on excel. It was broken down into three deliverables. The goal of this project is to 		analyze the success and failure of fundraising campaigns for various theaters and 		plays.
 
 ## Analysis and Challenges
 
 ### 1) Analysis of Outcomes Based on Launch Date
 
-	- Very successful during April and May, started to decline in June and July and continued to decline until September. There were cancelations during 		September and November but an increase in failures. 
+	- Very successful during April and May, started to decline in June and July and continued to 	decline until September. There were cancelations during September and November but an 		increase in failures. 
 
-<<<<<<< HEAD
 -	![This is an image](https://github.com/Wrancher123/Kickstarter-Analysis/blob/main/Rosources/Outcomes_vs_Goals.png)
-=======
-	- Rosources/Theater_Outcomes_vs_Launch.png
->>>>>>> 90835a19e64c4dd041867831cec402182d8c290c
 
 
 ### 2) Analysis of Outcomes Based on Goals
 	
-	- The percentage on successful and failed mirrored each other, with a 0% of canceled. 
+	- The percentage on successful and failed mirrored each other, with a 0% of canceled, so it 	is also clear that playing campaigns with higher goals has a higher chance of failing. 		However, there is also an anomaly where the failure rate increases dramatically between 	$44,000 and $46,000.
  
-<<<<<<< HEAD
 -	![This is an image](https://github.com/Wrancher123/Kickstarter-Analysis/blob/main/Rosources/Theater_Outcomes_vs_Launch.png)
 
-
-=======
-	- Rosources/Outcomes_vs_Goals.png
->>>>>>> 90835a19e64c4dd041867831cec402182d8c290c
 
 ### 3) Challenges and Difficulties Encountered
 
 -	Deliverable 1:
 
-	o Challenges and Difficulties: On Mac, when pulling data into the Rows under PivotTable Fields, it will include Data Created, Year, and Quarter. Removing 	the Year and Quarter game me the information needed.
+	* Challenges and Difficulties: On Mac, when pulling data into the Rows under PivotTable 	Fields, it will include Data Created, Year, and Quarter. Removing the Year and Quarter game 	me the information needed.
 
 -	Deliverable 2:
 
-	o Challenges and Difficulties: Using the new function COUNTIFS (). Data will be altered if it is not input correctly. Identifying how to complete the 		percentage and entering the formula correctly.  
+	* Challenges and Difficulties: Using the new function COUNTIFS (). Data will be altered if it 	is not input correctly. Identifying how to complete the percentage and entering the formula 	correctly.  
 
 ## Results
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
 
-	- During April and May, expect an increase in success. 	
-	- During September through December, expect failed or canceled.
+	-During April and May, expect an increase in success. 	
+	-During September through December, expect failed or canceled.
 
 - What can you conclude about the Outcomes based on Goals?
 	
