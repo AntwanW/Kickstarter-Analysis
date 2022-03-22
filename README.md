@@ -10,7 +10,7 @@ May had the largest success.
 Barchart on outcomes.
 
 
-# Kickstarting with Excel**
+# Kickstarting with Excel
 
 ## Overview of Project
 
